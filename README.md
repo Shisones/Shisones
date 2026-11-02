@@ -3,7 +3,7 @@
 <h3 align="center">C2 Development · Windows Malware · Exploit Development</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-C2_%26_malware-8B0000?style=flat-square" alt="Focus: C2 and malware" />
+  <img src="https://img.shields.io/badge/Focus-C2_%26_Malware-8B0000?style=flat-square" alt="Focus: C2 and Malware" />
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovim" />
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
